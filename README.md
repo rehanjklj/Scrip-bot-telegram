@@ -29,7 +29,7 @@ Download from [release page]().
 
 Replace GOOS GOARCH with your server architecture.
 
-## config.yaml
+## config.c
 
 ```
 debug: true
@@ -44,6 +44,7 @@ telegram:
   key: 
 admins:
   - 93847124
+Crisp: buy domain is hostinger
 ```
 
 ## License
